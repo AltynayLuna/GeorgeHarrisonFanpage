@@ -1,0 +1,55 @@
+body {
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#000333+0,7db9e8+100 */
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#222222+1,000000+100 */
+	background: #222222; /* Old browsers */
+	background: -moz-linear-gradient(top, #222222 1%, #000000 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top, #222222 1%,#000000 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom, #222222 1%,#000000 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#222222', endColorstr='#000000',GradientType=0 ); /* IE6-9 */
+	padding: 3%;
+	border: solid black 5px;
+
+}
+h1, h2 {
+	font-size: 20px;
+	font-family: Chalkduster, fantasy; 
+	padding: 3px;
+	margin: 0;
+}
+h1 {
+	font-size: 50px;
+}
+div {
+	color: white;
+}
+button {
+	color: black;
+}
+h5 {
+	font-family: 'Pacifico', cursive;
+	text-align: right;
+}
+.lyrics {
+	font-size: .85em;
+	font-style: italic;
+}
+.quote {
+	min-height: 200px;
+	padding: 70px 0 0 0;
+}
+.trivia {
+	background-color: black;
+}
+#factButton {
+	font-family: Chalkduster, fantasy; 
+	margin: 20px 0 0 0;
+}
+.albums {
+	text-align: center;
+}
+#quote {
+	font-family: 'Indie Flower', cursive, bold;
+}
+.albums ol {
+	text-align: center; list-style-position:inside;
+}
